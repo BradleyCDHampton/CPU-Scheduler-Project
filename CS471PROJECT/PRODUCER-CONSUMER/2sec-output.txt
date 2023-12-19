@@ -1,0 +1,9 @@
+Sleep = 2, Producers = 1, Consumers = 1 	 Throughput:	0.000000	 
+Sleep = 2, Producers = 1, Consumers = 4 	 Throughput:	0.000000	 
+Sleep = 2, Producers = 1, Consumers = 16 	 Throughput:	0.000000	 
+Sleep = 2, Producers = 4, Consumers = 1 	 Throughput:	1.500000	 
+Sleep = 2, Producers = 4, Consumers = 4 	 Throughput:	2.000000	 
+Sleep = 2, Producers = 4, Consumers = 16 	 Throughput:	3.000000	 
+Sleep = 2, Producers = 16, Consumers = 1 	 Throughput:	2.500000	 
+Sleep = 2, Producers = 16, Consumers = 4 	 Throughput:	4.000000	 
+Sleep = 2, Producers = 16, Consumers = 16 	 Throughput:	15.500000	 

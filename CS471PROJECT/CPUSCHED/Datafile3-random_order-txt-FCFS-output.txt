@@ -1,0 +1,9 @@
+
+Statistics for the Run:
+  Number of processes: 10
+  Total elapsed time: 407 CPU Burst cycles
+  Thoroughput: 0.02457 processes/CPU Burst cycle
+  CPU utilization: 65.1106%
+  Average waiting time: 10.8 CPU Burst cycles
+  Average turnaround time: 37.3 CPU Burst cycles
+  Average response time: 37.3 CPU Burst cycles
